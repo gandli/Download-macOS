@@ -5,7 +5,7 @@ on:
     inputs:
       macos_version:
         type: choice
-        description: "macOS Version"
+        # description: "macOS Version"
         required: true
         options:
           - Sonoma v14.4.1
